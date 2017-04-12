@@ -9,3 +9,10 @@ I took a challenge upon myself to fast pace my Deep Learning skills using the py
 2. Batch normalization
 3. More number of epochs
 
+## Day 2
+> Text classification using TFIDF feature matrix and MLP
+#### TODO:
+1. Use LRD, Batch Normalisation
+2. Use Dropout
+3. Further process the TFIDF matrix using TruncatedSVD
+
