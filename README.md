@@ -16,3 +16,8 @@ I took a challenge upon myself to fast pace my Deep Learning skills using the py
 2. Use Dropout
 3. Further process the TFIDF matrix using TruncatedSVD
 
+## Day 3
+> Text classification using word2vec and MLP
+#### TODO:
+1. Use LRD, Batch Normalisation, Dropout
+3. Tweaking word2vec hyperparams
