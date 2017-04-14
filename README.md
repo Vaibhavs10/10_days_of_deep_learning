@@ -20,4 +20,11 @@ I took a challenge upon myself to fast pace my Deep Learning skills using the py
 > Text classification using word2vec and MLP
 #### TODO:
 1. Use LRD, Batch Normalisation, Dropout
-3. Tweaking word2vec hyperparams
+2. Tweaking word2vec hyperparams
+
+## Day 4
+> Text classification using Convolutional Neural Networks
+#### TODO:
+1. Use LRD, Batch Normalisation, Dropout
+2. Try a multi-layer Convolutional Network
+
