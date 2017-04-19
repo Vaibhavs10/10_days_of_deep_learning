@@ -28,3 +28,9 @@ I took a challenge upon myself to fast pace my Deep Learning skills using the py
 1. Use LRD, Batch Normalisation, Dropout
 2. Try a multi-layer Convolutional Network
 
+## Day 5
+> Text classification using Recurrent Neural Networks
+#### TODO:
+1. Use LRD, Batch Normalisation, Dropout
+2. Use a combination of CNN and RNN
+
